@@ -1,0 +1,3 @@
+## Pets IQ Assistant
+
+Pets IQ Assistant is an AI-powered web application that helps pet owners predict the condition their pets by describing the pet's symptoms and receive guidance on next steps. It uses machine learning and a knowledge base to analyze user input, triage urgency (emergency, urgent, or home care), and provide actionable advice. The app supports multiple pet types and integrates with Fireworks API and ROMA agent for enhanced analysis. It is not a substitute for professional veterinary care but offers another perspective to various way Sentient tech stack could function in real life.

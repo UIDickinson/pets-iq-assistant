@@ -1,0 +1,25 @@
+node_modules
+.env
+.env.local
+.git
+.DS_Store
+*.log
+coverage
+.nyc_output
+test/
+tests/
+__tests__/
+spec/
+specs/
+.tmp
+.temp
+
+# Python files - ROMA service (not deployed to Vercel)
+*.py
+server/roma/
+pyproject.toml
+uv.lock
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
